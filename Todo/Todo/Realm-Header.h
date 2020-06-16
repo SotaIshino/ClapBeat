@@ -9,5 +9,6 @@
 #ifndef Realm_Header_h
 #define Realm_Header_h
 
-
+#import <Realm/Realm.h>
+#import <RealmSwift/RealmSwift.h>
 #endif /* Realm_Header_h */
